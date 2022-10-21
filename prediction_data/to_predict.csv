@@ -1,0 +1,6 @@
+Sex,Age,SiblingsSpouse,ParentChildren,Fare,EmbarkedCity,Class,Deck
+female,55.0,0,0,16.0,S,Second,
+male,2.0,4,1,29.125,Q,Third,
+male,,0,0,13.0,S,Second,
+female,31.0,1,0,18.0,S,Third,
+female,,0,0,7.225,C,Third,

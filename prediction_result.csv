@@ -1,0 +1,6 @@
+Sex,SiblingsSpouse,ParentChildren,Fare,Class,Age,EmbarkedCity_C,EmbarkedCity_Q,EmbarkedCity_S,Survived
+0,0,0,16.0,2,55.0,0,0,1,Survived
+1,4,1,29.125,3,2.0,0,1,0,Did Not Survive
+1,0,0,13.0,2,30.0,0,0,1,Did Not Survive
+0,1,0,18.0,3,31.0,0,0,1,Did Not Survive
+0,0,0,7.225,3,14.25,1,0,0,Survived
